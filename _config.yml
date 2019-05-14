@@ -16,8 +16,8 @@
 # in the templates via {{ site.myvariable }}.
 title: 画像オープンデータガイドライン
 description: 画像をオープンデータ化したい人に向けたガイドライン
-baseurl: "/image-opendata-guide" # the subpath of your site, e.g. /blog
-url: "https://ayane0321.github.io/image-opendata-guide/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "image-opendata-guide" # the subpath of your site, e.g. /blog
+url: "https://ayane0321.github.io/image-opendata-guide" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
