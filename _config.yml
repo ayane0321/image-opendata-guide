@@ -11,8 +11,8 @@ search_enabled: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "GitHub":
-    - "//github.com/ayane0321/image-opendata-guide"
+  "お問い合わせ":
+    - "//github.com/ayane0321/image-opendata-guide/issues"
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
