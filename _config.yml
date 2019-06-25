@@ -23,3 +23,8 @@ google_analytics: UA-142491857-1
 
 plugins:
   - jekyll-seo-tag
+
+gems:['jekyll-lunr-js-search']
+
+lunr_search:
+  excludes: [rss.xml, atom.xml]
