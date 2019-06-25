@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 本サイトへのお問い合わせ
+title: お問い合わせ
 nav_order: 3
 has_children: true
 permalink: /docs/exem
 ---
 
-# 本サイトへのお問い合わせ 
+# お問い合わせ 
 本サイトはGit-Hub pagesによって作成されています．お問い合わせがあります場合は
 右上にあります「お問い合わせ」よりisuueを投稿していただけると助かります．
 
