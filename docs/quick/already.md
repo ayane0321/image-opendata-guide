@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 既存の写真を公開
-parent: クイックスタート
+parent: 簡単ガイド
 nav_order: 2
 ---
 

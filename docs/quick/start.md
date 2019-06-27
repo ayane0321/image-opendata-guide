@@ -2,7 +2,7 @@
 layout: default
 title: はじめに
 nav_order: 1 
-parent: クイックスタート
+parent: 簡単ガイド
 ---
 
 ## 基礎知識
