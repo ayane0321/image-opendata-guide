@@ -4,7 +4,15 @@ title: 権利とオープンデータ
 parent: 基礎知識
 nav_order: 3
 ---
+# 著作権
+{: .no_toc }
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+---
 ## 著作権者に応じたオープンデータ化
 
 ![著作権]({{site.baseurl}}/picture/license2.png)
