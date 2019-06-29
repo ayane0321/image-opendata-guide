@@ -3,7 +3,7 @@ description: 画像をオープンデータ化したい人に向けたガイド�
 baseurl: "/image-opendata-guide/" # the subpath of your site, e.g. /blog
 url: "https://ayane0321.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-permalink: pretty
+permalink: /article/:title.html
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
 
 # Enable or disable the site search
