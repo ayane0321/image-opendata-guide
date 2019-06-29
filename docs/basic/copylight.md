@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 著作権
-parent: 基礎編
+parent: 基礎知識
 nav_order: 1 
 ---
 # 著作権
