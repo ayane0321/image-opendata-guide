@@ -3,6 +3,7 @@ layout: default
 title: 権利とオープンデータ
 parent: 基礎知識
 nav_order: 3
+permalink:/warning
 ---
 # 著作権
 {: .no_toc }
