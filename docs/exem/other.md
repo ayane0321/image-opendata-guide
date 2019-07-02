@@ -2,7 +2,7 @@
  layout: default
  title: その他お問い合わせ
  parent: お問い合わせ
- nav_order: 1
+ nav_order: 2
 
 ---
    
