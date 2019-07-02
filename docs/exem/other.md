@@ -1,6 +1,6 @@
 ---
  layout: default
- title: issuesについて
+ title: その他お問い合わせ
  parent: お問い合わせ
  nav_order: 1
 
