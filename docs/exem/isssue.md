@@ -1,7 +1,7 @@
 ---
 layout: default
 title: issuesについて
-parent: 本サイトへのお問い合わせ
+parent: お問い合わせ
 nav_order: 1
 ---
 
