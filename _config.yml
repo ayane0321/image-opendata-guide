@@ -1,6 +1,6 @@
 title: 画像オープンデータガイドライン
 description: 画像をオープンデータ化したい人に向けたガイドライン
-baseurl: "/image-opendata-guide/" # the subpath of your site, e.g. /blog
+baseurl: "/image-opendata-guide" # the subpath of your site, e.g. /blog
 url: "https://ayane0321.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: /article/:title.html
