@@ -5,7 +5,7 @@ parent: 基礎知識
 nav_order: 2
 ---
 
-# 著作権
+# オープンデータ
   {: .no_toc }
   
 ## Table of contents
