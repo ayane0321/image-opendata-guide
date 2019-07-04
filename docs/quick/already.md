@@ -32,7 +32,7 @@ nav_order: 2
 ![著作権]({{site.baseurl}}/picture/license2.png)
 
 
-
+ [詳細はこちら]({{ site.baseurl }}{{ post_url }}/docs/basic/warning.html#著作権者に応じたオープンデータ化)
 1. 自治体もしくは会社  
 
 2. 会社もしくは自治体の職員個人
