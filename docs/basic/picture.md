@@ -52,4 +52,4 @@ nav_order: 3
 商標登録しているか・他への使用を許可しているか・商用利用が可能かということを確認
 した上で、公開とライセンスの種類を決定することを勧めます。
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfh7AhhTGyM8XBREq48j3iDgFCsptmTEKEB2gbEhdaH4U4RQg/viewform?embedded=true" width="100%" height="912" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScUmpehLiHwr__LR1A77bZc4ifacTcu9yrykNwELhi4NmN7lQ/viewform?embedded=true" width="100%" height="881" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
