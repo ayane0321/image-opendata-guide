@@ -75,4 +75,4 @@ nav_order: 1
 作者が意図を持って撮影したもの→著作物  
 絵画を正面から撮ったものや自動証明写真→著作物ではない 
 
-
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScAjCtEXGdnzM0yZ4u55ntjotXDMYWqAGMTYwa5-iG8ILXrCg/viewform?embedded=true" width="100%" height="468" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
