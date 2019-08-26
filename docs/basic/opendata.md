@@ -51,3 +51,5 @@ nav_order: 2
 **・画像オープンデータの活用例**   
 画像オープンデータは、ポスター・パンフレット・アプリ・webページなど様々な媒体に使用することができます。
 
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfYRlbzcxi2kyAdq5LNzVtQTK8-mR661j1afK7OLNjmCR_Lgw/viewform?embedded=true" width="100%" height="581" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
