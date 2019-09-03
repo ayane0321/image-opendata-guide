@@ -73,3 +73,5 @@ nav_order: 5
 **その著作物でまだ公表されていないものを地方公文書館等に提供した場合**（公文書管理条例の規定による利用をさせる旨の決定の時までに別段の意思表示をした場合を除く。）　**公文書管理条例の規定により地方公文書館等の長が当該著作物を公衆に提供し、又は提示すること。**
 ```
 著作物でまだ公表されていないものを提供した場合、行政機関・独立行政法人・地方公共団体又は地方独立行政法人・国立公文書館・地方公文書館など提供した機関によって、公開する基準となる法律が変化します。
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc76UgZ5b6BB0M0_hZg6lRwudxunlS8DU_zr9fUhVEbdgXpyQ/viewform?embedded=true" width="100%" height="649" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
