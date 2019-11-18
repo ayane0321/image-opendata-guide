@@ -25,7 +25,7 @@ nav_order: 2
 2. 機械判読に適したもの 
 3. 無償で利用できるもの
 ```
-(出典：[総務省 オープンデータとは?](http://www.soumu.go.jp/menu_seisaku/ictseisaku/ictriyou/open    data/))
+(出典：[総務省 オープンデータとは?](http://www.soumu.go.jp/menu_seisaku/ictseisaku/ictriyou/opendata/))
 に該当するデータのことを指します。
 
 <br>
