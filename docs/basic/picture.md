@@ -59,4 +59,6 @@ nav_order: 3
 商標登録しているか・他への使用を許可しているか・商用利用が可能かということを確認
 した上で、公開とライセンスの種類を決定することを勧めます。
 
+### 参考サイト
+- [経済産業省　カメラ画像利活用ガイドブックver2.0](https://www.meti.go.jp/press/2017/03/20180330005/20180330005.html)
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScUmpehLiHwr__LR1A77bZc4ifacTcu9yrykNwELhi4NmN7lQ/viewform?embedded=true" width="100%" height="881" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
