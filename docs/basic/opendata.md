@@ -24,8 +24,8 @@ nav_order: 2
 1. 営利目的、非営利目的を問わず二次利用可能なルールが適用されたもの  
 2. 機械判読に適したもの 
 3. 無償で利用できるもの
-(出典：[総務省　オープンデータとは？](http://www.soumu.go.jp/menu_seisaku/ictseisaku/ictriyou/opendata/))
 ```
+(出典：[総務省 オープンデータとは?](http://www.soumu.go.jp/menu_seisaku/ictseisaku/ictriyou/open    data/))
 に該当するデータのことを指します。
 
 <br>

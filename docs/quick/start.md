@@ -30,7 +30,7 @@ parent: 簡単ガイド
 2.機械判読に適したもの  
 3.無償で利用できるもの
 ```
-(出典：[総務省](http://www.soumu.go.jp/menu_seisaku/ictseisaku/ictriyou/open    data/))
+(出典：[総務省 オープンデータとは?](http://www.soumu.go.jp/menu_seisaku/ictseisaku/ictriyou/open    data/))
 に該当するデータのことを指します。 
 
 機械判読に適しているとは、コンピュータがデータ構造を理解できることを指し、JPEGファイルやPDFファイルのようなテキスト情報などを識別できないファイルもしくはファイルを開く際に特定の企業ソフトを利用する必要のあるファイルに該当しないものです。
